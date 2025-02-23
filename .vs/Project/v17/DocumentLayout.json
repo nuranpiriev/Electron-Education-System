@@ -1,0 +1,1024 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\concretes\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\concretes\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\slideritemdtos\\sliderviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\slideritemdtos\\sliderviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\slideritemdtos\\sliderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\slideritemdtos\\sliderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\slideritemdtos\\sliderlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\slideritemdtos\\sliderlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\slideritemdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\slideritemdtos\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\coursedtos\\courseviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\coursedtos\\courseviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\coursedtos\\courseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\coursedtos\\courseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\coursedtos\\courselistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\coursedtos\\courselistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\coursedtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\coursedtos\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\attendancedtos\\attendanceviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\attendancedtos\\attendanceviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\attendancedtos\\attendancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\attendancedtos\\attendancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\slideritem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\slideritem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\attendance\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\attendance\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\attendance\\createattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\attendance\\createattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\abstractions\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\abstractions\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\concretes\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\concretes\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\concretes\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\repository\\abstraction\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\repository\\abstraction\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\concretes\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\concretes\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\abstractions\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\abstractions\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\abstractions\\islideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\abstractions\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\abstractions\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\abstractions\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\abstractions\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\repository\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\repository\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\migrations\\20250223193349_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\migrations\\20250223193349_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\profiles\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\profiles\\courseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\profiles\\attendanceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\profiles\\attendanceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\dtos\\teacherdtos\\teacherviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\dtos\\teacherdtos\\teacherviewitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\profiles\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\profiles\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\slideritem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\slideritem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\areas\\admin\\views\\slideritem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\areas\\admin\\views\\slideritem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\migrations\\20250223194806_atre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\migrations\\20250223194806_atre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|c:\\users\\mylpt\\desktop\\for attendance\\project\\project\\migrations\\20250222091305_slitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DFC711-75BB-4CFD-B7A0-AA217B332180}|Project\\Project.csproj|solutionrelative:project\\migrations\\20250222091305_slitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderCreateDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\SliderItemDTOs\\SliderCreateDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderCreateDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\SliderItemDTOs\\SliderCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:35:19.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderListItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderListItemDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\SliderItemDTOs\\SliderListItemDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderListItemDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\SliderItemDTOs\\SliderListItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:29:40.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\SliderItemDTOs\\SliderUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderUpdateDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\SliderItemDTOs\\SliderUpdateDTO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:38:48.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderViewItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderViewItemDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\SliderItemDTOs\\SliderViewItemDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\SliderItemDTOs\\SliderViewItemDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\SliderItemDTOs\\SliderViewItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:33:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "Project\\Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "Project\\Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA8wEUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:29:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Concretes\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\AttendanceService.cs",
+              "RelativeToolTip": "Project\\Services\\Concretes\\AttendanceService.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:39:28.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseViewItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseViewItemDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\CourseDTOs\\CourseViewItemDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseViewItemDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\CourseDTOs\\CourseViewItemDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:30:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\CourseDTOs\\CourseUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseUpdateDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\CourseDTOs\\CourseUpdateDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:19:02.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseListItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseListItemDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\CourseDTOs\\CourseListItemDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseListItemDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\CourseDTOs\\CourseListItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:18:32.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseCreateDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\CourseDTOs\\CourseCreateDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\CourseDTOs\\CourseCreateDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\CourseDTOs\\CourseCreateDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:17:30.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceViewItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\AttendanceDTOs\\AttendanceViewItemDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\AttendanceDTOs\\AttendanceViewItemDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\AttendanceDTOs\\AttendanceViewItemDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\AttendanceDTOs\\AttendanceViewItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:20:11.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendanceCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\AttendanceDTOs\\AttendanceCreateDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\AttendanceDTOs\\AttendanceCreateDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\AttendanceDTOs\\AttendanceCreateDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\AttendanceDTOs\\AttendanceCreateDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:39:07.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:21:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Project\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Project\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:46:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:03:32.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:09:19.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Attendance\\Update.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Attendance\\Update.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Attendance\\Update.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Attendance\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T19:54:17.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Course\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:22:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:21:43.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Course\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T20:29:42.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T08:20:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:02:31.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateAttendance.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Attendance\\CreateAttendance.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Attendance\\CreateAttendance.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Attendance\\CreateAttendance.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Attendance\\CreateAttendance.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:44:16.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:13:31.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Attendance\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Attendance\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Attendance\\Create.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Attendance\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T18:40:02.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:27:59.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:27:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SliderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Controllers\\SliderItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:59:52.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:30:18.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAYwHUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:33:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:01:41.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Abstractions\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\IStudentService.cs",
+              "RelativeToolTip": "Project\\Services\\Abstractions\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:00:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\StudentService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Concretes\\StudentService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\StudentService.cs",
+              "RelativeToolTip": "Project\\Services\\Concretes\\StudentService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwEoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:59:36.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\CourseService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Concretes\\CourseService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\CourseService.cs",
+              "RelativeToolTip": "Project\\Services\\Concretes\\CourseService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwE0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:10:02.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Repository\\Abstraction\\IRepository.cs",
+              "RelativeDocumentMoniker": "Project\\Repository\\Abstraction\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Repository\\Abstraction\\IRepository.cs",
+              "RelativeToolTip": "Project\\Repository\\Abstraction\\IRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:33:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SliderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\SliderItemService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Concretes\\SliderItemService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\SliderItemService.cs",
+              "RelativeToolTip": "Project\\Services\\Concretes\\SliderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:46:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T18:48:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:23:35.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Project\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Project\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:21:23.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Concretes\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Concretes\\TeacherService.cs",
+              "RelativeToolTip": "Project\\Services\\Concretes\\TeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:42:05.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Abstractions\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\ITeacherService.cs",
+              "RelativeToolTip": "Project\\Services\\Abstractions\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:41:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Abstractions\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\ICourseService.cs",
+              "RelativeToolTip": "Project\\Services\\Abstractions\\ICourseService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:19:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Abstractions\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\IAttendanceService.cs",
+              "RelativeToolTip": "Project\\Services\\Abstractions\\IAttendanceService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:36:07.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250223193349_final.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Migrations\\20250223193349_final.cs",
+              "RelativeDocumentMoniker": "Project\\Migrations\\20250223193349_final.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Migrations\\20250223193349_final.cs",
+              "RelativeToolTip": "Project\\Migrations\\20250223193349_final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:33:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ISliderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\ISliderItemService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\Abstractions\\ISliderItemService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\Abstractions\\ISliderItemService.cs",
+              "RelativeToolTip": "Project\\Services\\Abstractions\\ISliderItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:45:38.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CourseProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\CourseProfile.cs",
+              "RelativeDocumentMoniker": "Project\\Profiles\\CourseProfile.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\CourseProfile.cs",
+              "RelativeToolTip": "Project\\Profiles\\CourseProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:13:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SliderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\SliderProfile.cs",
+              "RelativeDocumentMoniker": "Project\\Profiles\\SliderProfile.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\SliderProfile.cs",
+              "RelativeToolTip": "Project\\Profiles\\SliderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:55:21.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ConfigurationServices.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Repository\\ConfigurationServices.cs",
+              "RelativeDocumentMoniker": "Project\\Repository\\ConfigurationServices.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Repository\\ConfigurationServices.cs",
+              "RelativeToolTip": "Project\\Repository\\ConfigurationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:12:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AttendanceProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\AttendanceProfile.cs",
+              "RelativeDocumentMoniker": "Project\\Profiles\\AttendanceProfile.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\AttendanceProfile.cs",
+              "RelativeToolTip": "Project\\Profiles\\AttendanceProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:21:47.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SliderItem.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Models\\SliderItem.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\SliderItem.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Models\\SliderItem.cs",
+              "RelativeToolTip": "Project\\Models\\SliderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:27:16.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TeacherViewItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\TeacherDTOs\\TeacherViewItemDTO.cs",
+              "RelativeDocumentMoniker": "Project\\DTOs\\TeacherDTOs\\TeacherViewItemDTO.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\DTOs\\TeacherDTOs\\TeacherViewItemDTO.cs",
+              "RelativeToolTip": "Project\\DTOs\\TeacherDTOs\\TeacherViewItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:12:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAANIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:29:32.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:30:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TeacherProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\TeacherProfile.cs",
+              "RelativeDocumentMoniker": "Project\\Profiles\\TeacherProfile.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Profiles\\TeacherProfile.cs",
+              "RelativeToolTip": "Project\\Profiles\\TeacherProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw8AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:17:06.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250222091305_SlItem.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Migrations\\20250222091305_SlItem.cs",
+              "RelativeDocumentMoniker": "Project\\Migrations\\20250222091305_SlItem.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Migrations\\20250222091305_SlItem.cs",
+              "RelativeToolTip": "Project\\Migrations\\20250222091305_SlItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:13:05.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SliderItem\\Update.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:02:49.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
+              "RelativeToolTip": "Project\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T09:02:12.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "Project\\Services\\ConfigurationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:57:57.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250223194806_atRe.cs",
+              "DocumentMoniker": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Migrations\\20250223194806_atRe.cs",
+              "RelativeDocumentMoniker": "Project\\Migrations\\20250223194806_atRe.cs",
+              "ToolTip": "C:\\Users\\MyLPT\\Desktop\\For Attendance\\Project\\Project\\Migrations\\20250223194806_atRe.cs",
+              "RelativeToolTip": "Project\\Migrations\\20250223194806_atRe.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:48:06.251Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

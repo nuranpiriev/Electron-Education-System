@@ -1,0 +1,47 @@
+﻿@model Teacher
+
+<!-- Begin Page Content -->
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Teacher Details</h6>
+        </div>
+        <div class="card-body">
+            <img style="width: 150px" src="~/uploads/teachers/@Model.ImageURL" />
+            <p>Id: @Model.Id</p>
+            <p>FullName: @Model.FullName</p>
+            <p>Phone Number: @Model.Phone</p>
+            <p>Gender: @Model.Gender</p>
+            <p>Email: @Model.Email</p>
+            <p>Address: @Model.Address</p>
+            <p>Create time: @Model.CreatedAt</p>
+            @if (Model.UpdatedAt is not null)
+            {
+                <p>Update time: @Model.UpdatedAt</p>
+            }
+            @if (Model.Courses.Count != 0)
+            {
+                <table class="table table-bordered" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Title</th>
+                            <th>Active</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Course item in Model.Courses)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Name</td>
+                                <td>@item.Description</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</div>
+<!-- /.container-fluid -->

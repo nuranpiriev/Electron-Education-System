@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Select Course for Attendance";
+}
+
+<h2>Select Course for Attendance</h2>
+
+<form asp-action="CreateAttendance" method="get">
+    <div class="form-group">
+        <label for="courseId">Select Course:</label>
+        <select id="courseId" name="courseId" class="form-control">
+            <option value="">-- Select a Course --</option>
+            @foreach (var course in (SelectList)ViewData["Courses"])
+            {
+                <option value="@course.Value">@course.Text</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Proceed</button>
+</form>

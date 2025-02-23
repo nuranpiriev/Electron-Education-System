@@ -1,0 +1,37 @@
+﻿@model Project.DTOs.AttendanceDTOs.AttendanceCreateDTO
+@{
+    ViewBag.Title = "Create Attendance";
+}
+
+<h2>Create Attendance for Course @Model.CourseId</h2>
+
+<form asp-area="Admin" asp-controller="Attendance" asp-action="CreateAttendance" method="post">
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" asp-for="CourseId" />
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Present?</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Students.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(m => m.Students[i].StudentName)
+                        <input type="hidden" asp-for="Students[@i].StudentId" />
+                        <input type="hidden" asp-for="Students[@i].StudentName" />
+                    </td>
+                    <td>
+                        <input type="checkbox" asp-for="Students[@i].Status" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-primary">Submit Attendance</button>
+</form>

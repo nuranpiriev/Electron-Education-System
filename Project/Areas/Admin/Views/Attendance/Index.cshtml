@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Project.DTOs.AttendanceDTOs.AttendanceListItemDTO>
+
+<h2>Attendances</h2>
+<a asp-action="Create" class="btn btn-primary">Create Attendance</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Course</th>
+            <th>Lesson Number</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.CourseName</td>
+                <td>@item.LessonNumber</td>
+                <td>@item.Date.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning">Update</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

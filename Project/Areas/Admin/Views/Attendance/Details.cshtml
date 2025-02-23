@@ -1,0 +1,29 @@
+﻿@model Project.DTOs.AttendanceDTOs.AttendanceViewDTO
+
+<h2>Attendance Details</h2>
+
+<div>
+    <p><strong>Date:</strong> @Model.Date.ToShortDateString()</p>
+    <p><strong>Course:</strong> @Model.CourseName</p>
+    <p><strong>Lesson Number:</strong> @Model.LessonNumber</p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.StudentName</td>
+                <td>@(student.Status ? "Present" : "Absent")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

@@ -1,0 +1,79 @@
+﻿@model Student
+
+<!-- Begin Page Content -->
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Student Details</h6>
+        </div>
+        <div class="card-body">
+            <img style="width: 150px" src="~/uploads/students/@Model.ImageURL" />
+            <p>Id: @Model.Id</p>
+            <p>Full Name: @Model.FullName</p>
+            <p>Firstname: @Model.FirstName</p>
+            <p>Last Name: @Model.LastName</p>
+            <p>Gender: @Model.Gender</p>
+            <p>Phone Number: @Model.Phone</p>
+            <p>Adress: @Model.Address</p>
+            <p>Email: @Model.Email</p>
+            <p>Is Deleted?: @Model.IsDeleted</p>
+            <p>Create time: @Model.CreatedAt</p>
+            @if (Model.UpdatedAt is not null)
+            {
+                <p>Update time: @Model.UpdatedAt</p>
+            }
+
+            <h4>Course Details</h4>
+            <p><strong>Course Name:</strong> @Model.Course.Name</p>
+            <p><strong>Teacher:</strong> @Model.Course.Teacher.FullName</p>
+            <p><strong>Lesson Count:</strong> @Model.Course.LessonCount</p>
+
+            <h4>Attendance Details</h4>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Lesson</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var lesson in Enumerable.Range(1, Model.Course.LessonCount))
+                    {
+                        var attendanceRecord = Model.AttendanceRecords
+                        .FirstOrDefault(ar => ar.Attendance.CourseId == Model.Course.Id && ar.Attendance.LessonNumber == lesson);
+
+                        <tr>
+                            <td>Lesson @lesson</td>
+                            <td>
+                                @if (attendanceRecord != null)
+                                {
+                                    if (attendanceRecord.IsPresent)
+                                    {
+                                        @("☑") 
+                                    }
+                                    else
+                                    {
+                                        <span class="absent">X</span> 
+                                    }
+                                }
+                                else
+                                {
+                                    @("-") 
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            @{
+                var totalLessons = Model.Course.LessonCount;
+                var totalAbsent = Model.AttendanceRecords
+                .Count(ar => ar.Attendance.CourseId == Model.Course.Id && !ar.IsPresent);
+                var attendancePercentage = totalLessons > 0 ? ((totalLessons - totalAbsent) * 100.0 / totalLessons) : 0;
+            }
+            <p><strong>Attendance Percentage:</strong> <span class="attendance-percentage">@($"{attendancePercentage:F2}%")</span></p>
+        </div>
+    </div>
+</div>
+<!-- /.container-fluid -->

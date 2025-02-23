@@ -1,0 +1,78 @@
+﻿@model Project.Models.Course
+
+@{
+    ViewBag.Title = "Course Details";
+}
+
+<style>
+    
+    .absent {
+        color: red;
+        font-weight: bold;
+    }
+</style>
+
+<img style="width: 150px" src="~/uploads/courses/@Model.ImageUrl" />
+<h2>@Model.Id</h2>
+<h2>@Model.Name</h2>
+<p>@Model.Description</p>
+<p><strong>Teacher:</strong> @Model.Teacher?.FullName</p>
+<p><strong>Lesson Count:</strong> @Model.LessonCount</p>
+
+
+<h3>Student Attendance</h3>
+<div class="table-responsive">
+    <table class="table table-bordered" width="100%" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            @for (int lesson = 1; lesson <= Model.LessonCount; lesson++)
+            {
+                <th>Lesson @lesson</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            var totalAbsent = 0;
+            <tr>
+                <td>@student.FullName</td>
+                @for (int lesson = 1; lesson <= Model.LessonCount; lesson++)
+                {
+                    var attendanceRecord = Model.Attendances
+                    .FirstOrDefault(a => a.LessonNumber == lesson)?
+                    .AttendanceRecords.FirstOrDefault(ar => ar.StudentId == student.Id);
+
+                    <td>
+                        @if (attendanceRecord != null)
+                        {
+                            if (attendanceRecord.IsPresent)
+                            {
+                                @("☑") 
+                            }
+                            else
+                            {
+                                <span class="absent">X</span> 
+                                totalAbsent++;
+                                
+                            }
+                        }
+                        else
+                        {
+                            @("-") 
+                        }
+                    </td>
+                }
+                
+                <td class="attendance-percentage">
+                    @{
+                        var percentage = Model.LessonCount > 0 ? ((Model.LessonCount - totalAbsent) * 100.0 / Model.LessonCount) : 0;
+                        @($"{percentage:F2}%") 
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+    </table>
+</div>
